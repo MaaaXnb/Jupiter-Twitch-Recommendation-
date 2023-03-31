@@ -20,7 +20,7 @@ import java.io.IOException;
 import java.util.*;
 
 public class TwitchClient {
-    private static final String TOKEN = "Bearer s4uyg6pgyommdiqwkocchl2vcuktoo";
+    private static final String TOKEN = "Bearer h9c2a9fw50qpm4ikie04r3a2atl8y9";
     private static final String CLIENT_ID = "qmw2e95aclsaf4i0pxd71n0kpm1x5e";
     private static final String TOP_GAME_URL = "https://api.twitch.tv/helix/games/top?first=%s";
     private static final String GAME_SEARCH_URL_TEMPLATE = "https://api.twitch.tv/helix/games?name=%s";
